@@ -2,7 +2,7 @@
 	<head>
 		<title>Scriplet tag example</title>
 	</head>
-	<body>
+	<body
 		<%
 			out.println("<BR>");
 			out.println("######    DevOps Course 2022 - Monitoring (EX2)    ######");
@@ -13,5 +13,5 @@
 			out.println(" 2) Vladi Kruk<BR>");
 			out.println(" 2) Ron Ofir<BR>");
 		%>
-	</body>
+	body>
 </html>
