@@ -5,9 +5,13 @@
 	<body>
 		<%
 			out.println("<BR>");
-			out.println("DevOps Monitoring - EX2");
+			out.println("######    DevOps Course 2022 - Monitoring (EX2)    ######");
 			out.println("<BR>");
-			out.println("Almog Shmul, Vladi Kruk, Ron Ofir");
+			out.println("<BR>");
+			out.println("Students : <BR>");
+			out.println(" 1) Almog Shmul <BR>");
+			out.println(" 2) Vladi Kruk<BR>");
+			out.println(" 2) Ron Ofir<BR>");
 		%>
 	</body>
 </html>
