@@ -2,6 +2,7 @@
 	<head>
 		<title>Scriplet tag example</title>
 	</head>
+	<body>
 		<%
 			out.println("<BR>");
 			out.println("######		DevOps Course 2022 - Monitoring (EX2)		######");
